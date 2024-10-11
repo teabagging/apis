@@ -117,7 +117,7 @@ export default async function createConfigAsync() {
     projectName: 'apis',
     baseUrl,
     baseUrlIssueBanner: true,
-    url: 'https://www.82oo.com',
+    url: 'https://www.474x.com',
 
 
     trailingSlash: isDeployPreview,
